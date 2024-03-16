@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+
+h1{
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal; 
+}
+h2{
+    color: darksalmon;
+}
+h3{
+    color:darksalmon;
+}
+.logo{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    float: right;
+    border-color: 3px solid darksalmon;
+
+}
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&display=swap');
+
+h2{
+    font-family: "Archivo Narrow", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
